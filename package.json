@@ -37,7 +37,7 @@
     "@eslint/json": "^2.0.0",
     "@eslint/markdown": "^8.0.2",
     "@types/node": "^25.9.1",
-    "@typescript-eslint/eslint-plugin": "^8.57.1",
+    "@typescript-eslint/eslint-plugin": "^8.62.1",
     "@typescript-eslint/parser": "^8.59.3",
     "eslint": "^10.6.0",
     "eslint-config-prettier": "^10.1.8",
